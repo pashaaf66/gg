@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">tickets.ru</string>
+    <string name="country1">Россия</string>
+    <string name="country2">Казахстан</string>
+    <string name="country3">Германия</string>
+    <string name="country4">Франция</string>
+    <string name="country5">США</string>
+</resources>
